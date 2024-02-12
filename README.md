@@ -31,8 +31,8 @@ After entering all the team members' information, the application will generate 
 
 ## Collaborators
 
-- Thomas Jack
-- Matt Dudman
+- Thomas Jack - https://github.com/quikstart86
+- Matt Dudman - https://github.com/atypicalbitter
 
 ## License
 
